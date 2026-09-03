@@ -1,0 +1,98 @@
+/* Element Selector */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #2563eb;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Typography */
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+/* Navigation */
+nav {
+    text-align: center;
+    background-color: #ddd;
+    padding: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 10px;
+    color: #2563eb;
+}
+
+/* ID Selector */
+#welcome {
+    text-align: center;
+}
+
+/* Form Styling */
+form {
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+/* Input and Textarea */
+input,
+textarea {
+    width: 90%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+/* Submit Button */
+input[type="submit"] {
+    width: auto;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    cursor: pointer;
+}
+
+/* Image */
+img {
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+}
+
+/* Footer */
+footer {
+    background-color: #2563eb;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+/* Media Query for Mobile */
+@media (max-width: 600px) {
+
+    form {
+        width: 95%;
+    }
+
+    img {
+        width: 90%;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+}
