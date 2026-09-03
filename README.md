@@ -1,11 +1,11 @@
 CSS (Cascading Style Sheets) is a language used to design and style web pages. It controls the appearance of HTML elements such as colors, fonts, backgrounds
 Types of CSS:-
 There are three main types of CSS:
-1. Inline CSS
+1. Inline CSS:-
 Inline CSS is written directly inside an HTML element using the style
-2. Internal CSS
+2. Internal CSS:-
 Internal CSS is written inside the <style> tag in the <head> section of an HTML document.
-3. External CSS
+3. External CSS:-
 External CSS is written in a separate .css file and linked to the HTML document.
 Typography:-
 Typography is the way text is designed and displayed on a webpage. It includes the font, size, color, spacing, and style of text.
